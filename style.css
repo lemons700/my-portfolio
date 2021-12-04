@@ -16,3 +16,11 @@ h1{
 .halfwidth img{
     max-width: 100%;
 }
+.btn-1{
+    text-decoration: none;
+    padding: 10px 28px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 5px; 
+    color: black;
+    font-weight: 700;
+}
